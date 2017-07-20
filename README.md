@@ -34,7 +34,7 @@
 <img class="alignnone size-thumbnail wp-image-10409" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获5-90x150.png" alt="" width="90" height="150" /> <img class="alignnone size-thumbnail wp-image-10408" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获4-89x150.png" alt="" width="89" height="150" /> <img class="alignnone size-thumbnail wp-image-10407" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获3-90x150.png" alt="" width="90" height="150" /> <img class="alignnone size-thumbnail wp-image-10406" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获2-89x150.png" alt="" width="89" height="150" /> <img class="alignnone size-thumbnail wp-image-10405" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获1-89x150.png" alt="" width="89" height="150" /> <img class="alignnone size-thumbnail wp-image-10404" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获-2-88x150.png" alt="" width="88" height="150" /></li>
  	<li>
 <p class="reader-word-layer reader-word-s3-15">应用目标：计划的应用效果</p>
-<img class="alignnone size-full wp-image-10409" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获5.png" alt="" width="377" height="630" /> <img class="alignnone size-full wp-image-10408" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获4.png" alt="" width="378" height="638" /> <img class="alignnone size-full wp-image-10407" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获3.png" alt="" width="379" height="633" /> <img class="alignnone size-full wp-image-10406" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获2.png" alt="" width="379" height="637" /> <img class="alignnone size-full wp-image-10405" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获1.png" alt="" width="377" height="634" /> <img class="alignnone size-full wp-image-10404" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获-2.png" alt="" width="375" height="640" /></li>
+<img class="alignnone wp-image-10409 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获5-180x300.png" alt="" width="180" height="300" /> <img class="alignnone wp-image-10408 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获4-178x300.png" alt="" width="178" height="300" /> <img class="alignnone wp-image-10407 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获3-180x300.png" alt="" width="180" height="300" /> <img class="alignnone wp-image-10406 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获2-178x300.png" alt="" width="178" height="300" /> <img class="alignnone wp-image-10405 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获1-178x300.png" alt="" width="178" height="300" /> <img class="alignnone wp-image-10404 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获-2-176x300.png" alt="" width="176" height="300" /></li>
 </ol>
 <h2><strong>总体设计</strong></h2>
 系统业务流程及描述（可以流程图的方式呈现）
@@ -43,22 +43,24 @@
 <h2><strong>详细设计</strong></h2>
 系统各个功能模块界面展示
 <h4>（1）用户旅游小记列表</h4>
-<img class="alignnone size-full wp-image-10404" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获-2.png" alt="" width="375" height="640" />
+<img class="alignnone wp-image-10404 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获-2-176x300.png" alt="" width="176" height="300" />
 <h4>（2）用户动态展示</h4>
-<img class="alignnone size-full wp-image-10405" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获1.png" alt="" width="377" height="634" />
+<img class="alignnone wp-image-10405 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获1-178x300.png" alt="" width="178" height="300" />
 <h4>（3）用户信息界面</h4>
-<img class="alignnone size-full wp-image-10563" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获7.png" alt="" width="377" height="607" />
+<img class="alignnone wp-image-10563 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获7-186x300.png" alt="" width="186" height="300" />
 <h4>（4）单个动态展示及点评点赞</h4>
-<img class="alignnone size-full wp-image-10406" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获2.png" alt="" width="379" height="637" />
+<img class="alignnone wp-image-10406 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获2-178x300.png" alt="" width="178" height="300" />
 <h4>（5）旅游地区推荐</h4>
-<img class="alignnone size-full wp-image-10407" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获3.png" alt="" width="379" height="633" />
+<img class="alignnone wp-image-10407 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获3-180x300.png" alt="" width="180" height="300" />
 <h4>（6）地区景点列表</h4>
-<img class="alignnone size-full wp-image-10408" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获4.png" alt="" width="378" height="638" />
+<img class="alignnone wp-image-10408 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获4-178x300.png" alt="" width="178" height="300" />
 <h4>（7）地区住宿、购物等信息列表</h4>
-<img class="alignnone size-full wp-image-10409" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获5.png" alt="" width="377" height="630" />
+<img class="alignnone wp-image-10409 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获5-180x300.png" alt="" width="180" height="300" />
 <h2><strong>功能实现</strong></h2>
 <ul>
- 	<li>具体文件结构<img class="alignnone size-full wp-image-10556" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获6.png" alt="" width="304" height="540" /></li>
+ 	<li>具体文件结构
+<h3><img class="alignnone size-full wp-image-10556" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获6.png" alt="" width="304" height="540" /></h3>
+</li>
  	<li>解读每个功能模块的实现过程，并讲解一下重要部分的代码。
 <h4>1、小程序首页（/pages/index）</h4>
 小程序首页显示当前的旅游动态列表。在小程序开启时，会调用Api中的getHotTripList方法，从面包旅行的api中获取response。然后通过json从response中读取热门景点的标题、图片、作者、日期等信息。然后将这些信息填入到我们编写的框架结构中，形成了首页的旅游动态列表。并且定义lodamore函数，当向下滑动的调用，向api请求更多的数据，并写入框架。当点击某个目录是将会调用navigateTo函数跳转到/pages/trip中。
@@ -80,7 +82,7 @@
 <h2><strong>项目演示</strong></h2>
 <ul>
  	<li>项目演示可放视频链接或二维码，推荐腾讯视频哦，适合在微信里传播。</li>
- 	<li>web类项目，可以利用github的项目演示功能，创建在线链接，方法参照：<a href="http://www.tuicool.com/articles/Z7nMva" target="_blank">如何在github上创建个人项目的在线演示demo</a></li>
+ 	<li><a href="https://v.qq.com/x/page/z0527lmrkdl.html">腾讯视频链接</a></li>
 </ul>
 <h2><strong>团队故事</strong></h2>
 <table style="height: 116px; border-color: #d8d8d8; background-color: #f9f9f9; width: 448px;" border="1" cellspacing="0" cellpadding="5px">
@@ -91,15 +93,22 @@
 </tr>
 <tr style="height: 24px;">
 <td style="width: 92px; height: 24px;">洪誉</td>
-<td style="width: 330px; height: 24px;">技术担当，资源协调</td>
+<td style="width: 330px; height: 24px;">主要负责api的调用及其函数的书写，以及服务器的搭建等工作</td>
 </tr>
 <tr style="height: 24px;">
 <td style="width: 92px; height: 24px;">程文毅</td>
-<td style="width: 330px; height: 24px;">硬件设计，创意思路</td>
+<td style="width: 330px; height: 24px;">主要负责html5,css,及一些js的书写</td>
 </tr>
 </tbody>
 </table>
 团队联系方式：邮箱、QQ、电话等；
-团队合作过程中发生的趣事、攻克的难关。
+
+洪誉：
+
+邮箱：524368092@qq.com   qq:524368092  手机：18910169831
+
+程文毅：
+
+邮箱：1720402238@qq.com  qq:1720402238  手机：15321120149
 <h2><strong>资料链接</strong></h2>
 <a href="http://www.w3school.com.cn/" target="_blank"><em>w3s</em>chool 在线教程</a>
