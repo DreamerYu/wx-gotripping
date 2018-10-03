@@ -39,27 +39,27 @@
 <h2><strong>总体设计</strong></h2>
 系统业务流程及描述（可以流程图的方式呈现）
 
-<img class="alignnone size-full wp-image-10492" src="http://112.74.62.56/wp-content/uploads/2017/07/未命名文件-1.png" alt="" width="745" height="539" />
+<img class="alignnone size-full wp-image-10492" src="https://github.com/DreamerYu/wx-gotripping/blob/master/images/intro/tree.png" alt="" width="745" height="539" />
 <h2><strong>详细设计</strong></h2>
 系统各个功能模块界面展示
 <h4>（1）用户旅游小记列表</h4>
-<img class="alignnone wp-image-10404 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获-2-176x300.png" alt="" width="176" height="300" />
+<img class="alignnone wp-image-10404 size-medium" src="https://github.com/DreamerYu/wx-gotripping/blob/master/images/intro/list.PNG" alt="" width="176" height="300" />
 <h4>（2）用户动态展示</h4>
-<img class="alignnone wp-image-10405 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获1-178x300.png" alt="" width="178" height="300" />
+<img class="alignnone wp-image-10405 size-medium" src="https://github.com/DreamerYu/wx-gotripping/blob/master/images/intro/stream.PNG" alt="" width="178" height="300" />
 <h4>（3）用户信息界面</h4>
-<img class="alignnone wp-image-10563 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获7-186x300.png" alt="" width="186" height="300" />
+<img class="alignnone wp-image-10563 size-medium" src="https://github.com/DreamerYu/wx-gotripping/blob/master/images/intro/user.PNG" alt="" width="186" height="300" />
 <h4>（4）单个动态展示及点评点赞</h4>
-<img class="alignnone wp-image-10406 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获2-178x300.png" alt="" width="178" height="300" />
+<img class="alignnone wp-image-10406 size-medium" src="https://github.com/DreamerYu/wx-gotripping/blob/master/images/intro/detail.PNG" alt="" width="178" height="300" />
 <h4>（5）旅游地区推荐</h4>
-<img class="alignnone wp-image-10407 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获3-180x300.png" alt="" width="180" height="300" />
+<img class="alignnone wp-image-10407 size-medium" src="https://github.com/DreamerYu/wx-gotripping/blob/master/images/intro/photo.PNG" alt="" width="180" height="300" />
 <h4>（6）地区景点列表</h4>
-<img class="alignnone wp-image-10408 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获4-178x300.png" alt="" width="178" height="300" />
+<img class="alignnone wp-image-10408 size-medium" src="https://github.com/DreamerYu/wx-gotripping/blob/master/images/intro/destination.PNG" alt="" width="178" height="300" />
 <h4>（7）地区住宿、购物等信息列表</h4>
-<img class="alignnone wp-image-10409 size-medium" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获5-180x300.png" alt="" width="180" height="300" />
+<img class="alignnone wp-image-10409 size-medium" src="https://github.com/DreamerYu/wx-gotripping/blob/master/images/intro/hotel.PNG" alt="" width="180" height="300" />
 <h2><strong>功能实现</strong></h2>
 <ul>
  	<li>具体文件结构
-<h3><img class="alignnone size-full wp-image-10556" src="http://112.74.62.56/wp-content/uploads/2017/07/捕获6.png" alt="" width="304" height="540" /></h3>
+<h3><img class="alignnone size-full wp-image-10556" src="https://github.com/DreamerYu/wx-gotripping/blob/master/images/intro/docu_list.PNG" alt="" width="304" height="540" /></h3>
 </li>
  	<li>解读每个功能模块的实现过程，并讲解一下重要部分的代码。
 <h4>1、小程序首页（/pages/index）</h4>
